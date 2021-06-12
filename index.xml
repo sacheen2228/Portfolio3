@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Sachin Sonawane</title>
+    <link>https://sacheen2228.github.io/Portfolio3/</link>
+    <description>Recent content in Data Science Portfolio on Sachin Sonawane</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Nov 2020 11:15:58 -0400</lastBuildDate><atom:link href="https://sacheen2228.github.io/Portfolio3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 5: Exploratory Data Analysis of IPL-Matches</title>
+      <link>https://sacheen2228.github.io/Portfolio3/post/project-5/</link>
+      <pubDate>Fri, 13 Nov 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://sacheen2228.github.io/Portfolio3/post/project-5/</guid>
+      <description>Inferences and Conclusion
+Let’s summarize the important observations we made during Exploratory Data Analysis
+ Mumbai Indians is the most successful team in IPL. Mumbai Indians has won the most number of toss. Mumbai city has hosted the most number of IPL matches Chris Gayle has won the maximum number of player of the match title. Till 2019, 40 venues have hosted 756 IPL matches   Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Face Recognition Attandance System</title>
+      <link>https://sacheen2228.github.io/Portfolio3/post/project-4/</link>
+      <pubDate>Sat, 12 Sep 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://sacheen2228.github.io/Portfolio3/post/project-4/</guid>
+      <description>Features :
+ Check Camera Capture Faces Train Faces Recognize Faces &amp;amp; Attendance update in excel sheet     Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 3:  Data Analysis electronics store</title>
+      <link>https://sacheen2228.github.io/Portfolio3/post/project-3/</link>
+      <pubDate>Sat, 11 Jul 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://sacheen2228.github.io/Portfolio3/post/project-3/</guid>
+      <description>Data exploration section. In this section we explore 5 high level business questions related to our data
+ What was the best month for sales? How much was earned that month? What city sold the most products? What time should we display advertisements to maximize the likelihood of customer’s buying product? What products are most often sold together? What product sold the most? Why do you think it sold the most?</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Data-Science-Capstone-Healthcare</title>
+      <link>https://sacheen2228.github.io/Portfolio3/post/project-2/</link>
+      <pubDate>Sun, 10 May 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://sacheen2228.github.io/Portfolio3/post/project-2/</guid>
+      <description>DESCRIPTION
+Problem Statement NIDDK (National Institute of Diabetes and Digestive and Kidney Diseases) research creates knowledge about and treatments for the most chronic, costly, and consequential diseases. The dataset used in this project is originally from NIDDK. The objective is to predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. Build a model to accurately predict whether the patients in the dataset have diabetes or not.</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Movielens Case Study</title>
+      <link>https://sacheen2228.github.io/Portfolio3/post/project_1/</link>
+      <pubDate>Thu, 09 Apr 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://sacheen2228.github.io/Portfolio3/post/project_1/</guid>
+      <description>Problem Objective: Here, we ask you to perform the analysis using the Exploratory Data Analysis technique. You need to find features affecting the ratings of any particular movie and build a model to predict the movie ratings.
+Domain : Entertainment
+Analysis Tasks to be performed: Import the three datasets Create a new dataset [Master_Data] with the following columns MovieID Title UserID Age Gender Occupation Rating. (Hint: (i) Merge two tables at a time.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://sacheen2228.github.io/Portfolio3/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sacheen2228.github.io/Portfolio3/contact/</guid>
+      <description>   Platform URL     E-mail: sachin.sonawane9002@gmail.com   LinkedIn: https://www.linkedin.com/in/sachin-sonawane-b1a54758   GitHub: https://github.com/sacheen2228    </description>
+    </item>
+    
+  </channel>
+</rss>
